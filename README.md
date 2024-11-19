@@ -1,6 +1,6 @@
 # Intro-to-Python-For-Statistical-Analysis
 
-This project exists as my preparation for a guest lecture at Hunter College on September 27, 2024. I was invited back on October 18, 2024 to continue. All content covered in lecture can be found in this repo.
+This project exists as my preparation for a guest lecture at Hunter College on September 27, 2024. I was invited back on October 18, 2024 to continue/expand on the topic. All content covered in both lectures can be found in this repo.
 
 ### Contents:
 | File | Description |
