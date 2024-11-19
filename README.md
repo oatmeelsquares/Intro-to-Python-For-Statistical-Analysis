@@ -5,7 +5,5 @@ This project exists as my preparation for a guest lecture at Hunter College on S
 ### Contents:
 
 | py_lecture.ipynb             | The main content of the lecture, including notes, examples, and practice questions.    |
-|------------------------------|----------------------------------------------------------------------------------------|
 | ef_slopes_and_discipline.csv | Data referenced in the lecture, used to demonstrate a linear regression using sklearn. |
-|------------------------------|----------------------------------------------------------------------------------------|
 | example_figure.png           | Example plot using matplotlib, referenced in the lecture.                              |
