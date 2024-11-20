@@ -22,7 +22,7 @@ Each section includes some high-level notes, code examples, and practice questio
 
 ### Outcome
 
-The student and professor gave positive feedback about the pace and clarity of the content. The student reported being comfortable enough after this lecture to explore Python on her own.
+The student and professor gave positive feedback about the pace and clarity of the content. The student reported being comfortable enough after this lecture to explore Python on her own!
 
 ### Contents:
 | File | Description |
